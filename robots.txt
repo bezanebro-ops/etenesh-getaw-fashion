@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bezanebro-ops.github.io/etenesh-getaw-fashion/sitemap.xml
